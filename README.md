@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=black-crypto-gif" alt="black-crypto-gif" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@animals36368991" target="blank"><img src="https://img.shields.io/twitter/follow/@animals36368991?logo=twitter&style=for-the-badge" alt="@animals36368991" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@Animals36368991" target="blank"><img src="https://img.shields.io/twitter/follow/@animals36368991?logo=twitter&style=for-the-badge" alt="@animals36368991" /></a> </p>
 
 - 🌱 I’m currently learning **React.Js, Web3.js**
 
