@@ -1,3 +1,4 @@
+<center>
 <h1 align="center">Hi 👋, I'm MELLAL Fethi</h1>
 <h3 align="center">A passionate full Stack web developer from Algeria</h3>
 
@@ -37,3 +38,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=black-crypto-gif&show_icons=true&locale=en" alt="black-crypto-gif" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=black-crypto-gif&" alt="black-crypto-gif" /></p>
+</center>
